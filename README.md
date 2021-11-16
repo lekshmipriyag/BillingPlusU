@@ -112,14 +112,14 @@ Version 1.0
 
 ## RMIT BillingPlusU Team
 
-* Suwat Tangtragoonviwatt (s3710374)
-* Laura Jonathan (s3696013)
-* Xinhong Chen (s3710646)
-* Qiren Zhao (s3637084)
-* Fengning Tian (s3582667)
-* Xun Li (s3639678)
+* Rahul Paul 
+* Lekshmi Priya Geetha
+* YiYi He 
+* Bowen Helen
+* Fengning Wang
+
 
 
 ## Acknowledgments
 
-* Barti Murugesan (Project Advisor)
+* Amir Homayoon Ashrafzadeh (Project Advisor)
